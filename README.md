@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mmurray1019
 - 👀 I’m interested in blowing stuff up
 - 🌱 I’m currently learning more html and javascript
-- 💞️ I’m looking to collaborate on making websites like military media
+- 💞️ I’m looking to collaborate on making websites like <a src='https://militarymedia.github.io/index.html'>military media</a>
 - 📫 How to reach me: just dont
 - 😄 Pronouns: He, him, supreme being, almighty human
 - ⚡ Fun fact: Ur mom
